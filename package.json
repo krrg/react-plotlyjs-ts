@@ -9,28 +9,27 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidctj/react-plotlyjs-ts.git"
+    "url": "https://github.com/krrg/react-plotlyjs-ts.git"
   },
   "keywords": [
     "react",
     "typescript",
     "plotly"
   ],
-  "author": "caitengjiao1987@gmail.com",
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.4"
   },
   "peerDependencies": {
-    "plotly.js": "^1.31.2",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0",
-    "typescript": "^2.5.3"
+    "plotly.js": "^2",
+    "react": "^18",
+    "react-dom": "^18.0.0",
+    "typescript": "^4"
   },
   "devDependencies": {
-    "@types/lodash": "^4.14.80",
-    "@types/plotly.js": "^1.28.8",
-    "@types/react": "^16.0.18",
-    "@types/react-dom": "^16.0.2"
+    "@types/lodash": "^4.14",
+    "@types/plotly.js": "^2",
+    "@types/react": "^18",
+    "@types/react-dom": "^18"
   }
 }
